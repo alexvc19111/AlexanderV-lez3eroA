@@ -1,0 +1,15 @@
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\bin\Debug\net6.0\EJERCICIO10.exe
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\bin\Debug\net6.0\EJERCICIO10.deps.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\bin\Debug\net6.0\EJERCICIO10.runtimeconfig.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\bin\Debug\net6.0\EJERCICIO10.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\bin\Debug\net6.0\EJERCICIO10.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.csproj.AssemblyReference.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.AssemblyInfoInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.AssemblyInfo.cs
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\refint\EJERCICIO10.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\EJERCICIO10.genruntimeconfig.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO10\obj\Debug\net6.0\ref\EJERCICIO10.dll
