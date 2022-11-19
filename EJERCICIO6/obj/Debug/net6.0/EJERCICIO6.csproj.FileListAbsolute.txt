@@ -1,0 +1,15 @@
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\bin\Debug\net6.0\EJERCICIO6.exe
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\bin\Debug\net6.0\EJERCICIO6.deps.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\bin\Debug\net6.0\EJERCICIO6.runtimeconfig.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\bin\Debug\net6.0\EJERCICIO6.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\bin\Debug\net6.0\EJERCICIO6.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.csproj.AssemblyReference.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.AssemblyInfoInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.AssemblyInfo.cs
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\refint\EJERCICIO6.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\EJERCICIO6.genruntimeconfig.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\AlexanderVélez3eroA\EJERCICIO6\obj\Debug\net6.0\ref\EJERCICIO6.dll
